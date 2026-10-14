@@ -73,7 +73,7 @@ The table below benchmarks category-leading SaaS operating platforms and creator
 
 ## 🛠️ Open-Source GitHub Projects
 
-The following open-source repositories provide the foundational building blocks for self-hosting your creator operations stack, automated sponsor CRMs, revshare ledgers, and video production pipelines. Repositories are **sorted descending by GitHub Stars**.
+The following open-source repositories provide the foundational building blocks for self-hosting your creator operations stack, automated sponsor CRMs, revshare ledgers, and video production pipelines. Repositories are **sorted descending by GitHub_Stars**.
 
 - **[n8n-io/n8n](https://github.com/n8n-io/n8n)** <a href="https://github.com/n8n-io/n8n/stargazers"><img src="https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white" alt="Stars" /></a>  
   *Fair-code workflow automation platform.* The nervous system for creator operations: orchestrates multi-step workflows linking YouTube Data API, sponsor inquiry webhooks, Discord/Slack team notifications, contract status triggers, and automated payout notifications.
@@ -180,7 +180,7 @@ Contributions are warmly welcomed! Help expand this creator operations ecosystem
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-creator-tool`).
-3. 📝 **Add your entry** adhering to the existing format (include name, URL, objective summary, pricing/stars badge).
+3. 📝 **Add your entry** adhering to the existing format (include name, URL, objective summary, pricing/Stars_Badge).
 4. 📬 **Submit a Pull Request** with a short rationale of why the platform benefits creators and operations agencies.
 
 Please ensure all submissions adhere to the [Awesome-Awesome-Awesome Guidelines](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
