@@ -2,7 +2,7 @@
 
 # Awesome-Youtube-Creator-Operations-Agencies
 
-# Top YouTube Creator Operations Agencies Ecosystem
+## Top YouTube Creator Operations Agencies Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Creator Management, Brand Partnerships & Channel Business Operations*  
